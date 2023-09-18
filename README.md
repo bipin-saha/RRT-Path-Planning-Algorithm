@@ -64,6 +64,6 @@ The main loop alternates between two types of iterations:
 The algorithm continues until it successfully reaches the goal or exhausts a predefined number of iterations.
 
 ## Execution
-To execute the RRT path planning algorithm, run the `main.py` script. It will visualize the process of RRT exploration, showing the start, goal, obstacles, and the computed path on the map.
+To execute the RRT path planning algorithm, run the `mainRRT.py` script. It will visualize the process of RRT exploration, showing the start, goal, obstacles, and the computed path on the map.
 
 In summary, the RRT algorithm is a versatile and widely used approach for path planning in robotics and other autonomous systems. It efficiently explores the configuration space to find feasible paths while avoiding obstacles, making it suitable for various real-world applications.
